@@ -1,0 +1,47 @@
+{
+  "bug1": {
+    "aceptado": true,
+    "rolObtenido": "admin"
+  },
+  "bug2": {
+    "nextLlamado": false,
+    "respuestaEnviada": false
+  },
+  "bug3": {
+    "rolAutoasignado": "admin"
+  },
+  "bug4": {
+    "excepcion": "Cannot read properties of null (reading 'password')"
+  },
+  "bug5": {
+    "titulosDevueltos": [
+      "Tarea 3",
+      "Tarea 2"
+    ]
+  },
+  "bug6": {
+    "sortRealUsado": {
+      "createdAt": -1
+    }
+  },
+  "bug7": {
+    "tareaFiltrada": "Tarea privada de Bruno"
+  },
+  "bug8": {
+    "estadoGuardado": "ESTADO_INVENTADO_NO_EXISTE",
+    "ownerFinal": "carla-id"
+  },
+  "bug9": {
+    "stackExpuestoEnProd": true
+  },
+  "bug10": {
+    "allowOrigin": "*",
+    "allowCreds": "true"
+  },
+  "bug11": {
+    "errorReal": "E11000 duplicate key error collection: taskflow.users index: email_1 dup key: { email: \"ana.admin@taskflow.test\" }"
+  },
+  "bug12": {
+    "marcadaVencidaPrematuramente": true
+  }
+}
