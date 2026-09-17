@@ -1,4 +1,3 @@
-Markdown
 # Mini Enigma - Backend
 
 API REST en Node.js, Express y MongoDB para la aplicación de cifrado y descifrado Mini-Enigma. 
